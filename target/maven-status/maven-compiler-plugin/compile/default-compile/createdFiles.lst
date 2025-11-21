@@ -1,0 +1,6 @@
+com\solarsoft\facelift\pages\LoginPage.class
+com\solarsoft\facelift\utils\WaitUtils.class
+com\solarsoft\facelift\pages\ProposalListPage.class
+com\solarsoft\facelift\pages\DashboardPage.class
+com\solarsoft\facelift\config\ConfigReader.class
+com\solarsoft\facelift\driver\DriverManager.class
