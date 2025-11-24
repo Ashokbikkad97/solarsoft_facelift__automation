@@ -1,6 +1,11 @@
 D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\config\ConfigReader.java
 D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\driver\DriverManager.java
+D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\AccountPage.java
+D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\AccountsPage.java
 D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\DashboardPage.java
 D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\LoginPage.java
 D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\ProposalListPage.java
+D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\ProposalPage.java
+D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\SitePage.java
+D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\pages\SystemSectionPage.java
 D:\MyProject\facelift_full_automation\src\main\java\com\solarsoft\facelift\utils\WaitUtils.java

@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="Facelift Full Suite" parallel="false">
+<suite name="Facelift Full Suite" verbose="1" parallel="false">
 
     <!-- Smoke suite -->
     <test name="Smoke Suite">
@@ -12,6 +12,7 @@
             <class name="com.solarsoft.facelift.tests.LoginTests"/>
             <class name="com.solarsoft.facelift.tests.DashboardCardTests"/>
             <class name="com.solarsoft.facelift.tests.GlobalSearchTests"/>
+            <class name="com.solarsoft.facelift.tests.DealerTests"/>
         </classes>
     </test>
 
@@ -28,6 +29,7 @@
             <class name="com.solarsoft.facelift.tests.ProposalListTests"/>
             <class name="com.solarsoft.facelift.tests.ActionMenuTests"/>
             <class name="com.solarsoft.facelift.tests.GlobalSearchTests"/>
+            <class name="com.solarsoft.facelift.tests.DealerTests"/>
         </classes>
     </test>
 

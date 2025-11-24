@@ -1,17 +1,19 @@
-# Java / Maven
+# Maven
 target/
 *.class
 *.log
 
-# IDE
+# IDE (Eclipse / IntelliJ)
 .idea/
 *.iml
 .classpath
 .project
 .settings/
 
-# Allure / test results
+# Test results / reports
 allure-results/
+surefire-reports/
+jacoco.exec
 
 # OS
 .DS_Store
