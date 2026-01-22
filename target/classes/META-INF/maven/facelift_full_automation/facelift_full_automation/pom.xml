@@ -53,7 +53,28 @@
     </exclusions>
 </dependency>
 
+		<!-- XML Path (optional but safe) -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>xml-path</artifactId>
+    <version>5.4.0</version>
+    <scope>test</scope>
+</dependency>
+<!-- Rest Assured -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>5.4.0</version>
+    <scope>test</scope>
+</dependency>
 
+<!-- JSON Path -->
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>json-path</artifactId>
+    <version>5.4.0</version>
+    <scope>test</scope>
+</dependency>
         <!-- TestNG -->
         <dependency>
             <groupId>org.testng</groupId>
